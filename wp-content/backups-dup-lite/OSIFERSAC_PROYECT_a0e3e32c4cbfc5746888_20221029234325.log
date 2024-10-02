@@ -1,0 +1,77 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 29 de October de 2022 23:44
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.0
+WORDPRESS:	6.0.3
+PHP INFO:	8.1.10 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 116MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:72 | filtered:0 | create:72
+FILTERED: []
+SQL CREATED: OSIFERSAC_PROYECT_a0e3e32c4cbfc5746888_20221029234325_database.sql
+SQL FILE SIZE: 10.89MB (11419261)
+SQL FILE TIME: 2022-10-29 23:44:17
+SQL RUNTIME: 6.83 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/laragon/www/ProyectoOsi
+ARCHIVE FILE: OSIFERSAC_PROYECT_a0e3e32c4cbfc5746888_20221029234325_archive.zip
+FILTERS: *ON*
+DIRS:
+	C:/laragon/www/ProyectoOsi/wp-content/themes/astra/inc/customizer/custom-controls/assets/js/minified
+	C:/laragon/www/ProyectoOsi/wp-content/themes/astra/inc/customizer/custom-controls/assets/js/unminified
+	C:/laragon/www/ProyectoOsi/wp-content/themes/astra/inc/customizer/extend-custom-controls/build
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	194.52MB
+STATS:	Dirs 2,459 | Files 12,667
+SQL ADDED: OSIFERSAC_PROYECT_a0e3e32c4cbfc5746888_20221029234325_database.sql
+ZipArchive Object
+(
+    [lastId] => 15125
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 15126
+    [filename] => C:\laragon\www\ProyectoOsi\wp-content\backups-dup-lite\tmp\OSIFERSAC_PROYECT_a0e3e32c4cbfc5746888_20221029234325_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 15125
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 77.21MB
+ARCHIVE RUNTIME: 124.00 sec.
+MEMORY STACK: 122MB
+building installer
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: SUPERADA
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 10.89MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 79.21MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 15,126
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 15,125
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 135.02 sec.
+PEAK PHP MEMORY USED: 136MB
+DONE PROCESSING => OSIFERSAC_PROYECT 29 de October de 2022 23:46
+
